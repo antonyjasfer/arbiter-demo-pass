@@ -1,0 +1,12 @@
+{
+  "name": "arbiter-demo-taskboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TaskBoard: a tiny task list, used as a demo deliverable for Arbiter.",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
